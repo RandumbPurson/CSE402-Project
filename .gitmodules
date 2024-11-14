@@ -1,3 +1,0 @@
-[submodule "facenet-pytorch"]
-	path = facenet_pytorch/facenet-pytorch
-	url = https://github.com/timesler/facenet-pytorch
