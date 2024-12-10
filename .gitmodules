@@ -1,3 +1,6 @@
 [submodule "facenet_pytorch"]
 	path = facenet_pytorch
 	url = https://github.com/RandumbPurson/facenet-pytorch
+[submodule "Pytorch_Retinaface"]
+	path = Pytorch_Retinaface
+	url = https://github.com/biubug6/Pytorch_Retinaface.git
